@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Unai02
 - 👀 I’m interested in ...
-- 🌱 I’m currently learning CSS and Javascript
+- 🌱 I’m currently learning HTML, CSS and Javascript
 - 📫 How to reach me ...
 
 <!---
